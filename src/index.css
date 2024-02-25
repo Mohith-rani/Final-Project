@@ -1,0 +1,42 @@
+body{
+  font-size:1em;
+  font-family:verdana;
+  margin:0;
+}
+
+
+.nrmltext{
+  color:white;
+  font-weight:bold;
+  height:30px;
+  font-size:large;
+}
+
+.root-layout{
+   display:grid;
+   grid-template-columns: 1fr 1fr;
+}
+
+
+.first-box{
+  margin:10px;
+  border:2px solid black;
+}
+
+.second-box{
+  margin:10px;
+  border:2px solid black;
+}
+
+.first_img{
+  margin:0 20px;
+}
+video{
+  width:700px;
+  margin:0 30px;
+
+}
+
+
+
+
